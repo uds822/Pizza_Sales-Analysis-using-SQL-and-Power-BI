@@ -1,4 +1,4 @@
-# Pizza_Sales-Analysis-using-SQL-and-Power-BI
+# Pizza Sales Analysis using SQL and Power-BI
 
 
 ## Project Overview
